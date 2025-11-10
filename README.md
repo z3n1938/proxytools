@@ -1,4 +1,4 @@
-# T3N1938 Proxy Hunter v6.0  
+# Z3N1938 Proxy Tools v1.0  
 **The ultimate all-in-one Python proxy toolkit** that lets you scrape, test, filter and export thousands of elite proxies in seconds — all from a clean, colorful terminal menu. Built for speed, anonymity and zero bans.
 
 ## Features
@@ -35,7 +35,7 @@ pip install requests colorama
 
 ## Usage
 ```bash
-python t3n1938_proxy_hunter.py
+python proxy_tools.py
 ```
 
 Select an option from the menu:  
@@ -72,7 +72,7 @@ All files are saved in the same folder with timestamps — never overwrite your 
 One run → 2000+ elite proxies → Instagram falls, Cloudflare cries, you rule.
 ```
 
-**GitHub:** https://github.com/kral-sa/t3n1938-proxy-hunter  
-**Built with fire by T3N1938 — King of the Shadows**  
+
+**by Z3N1938**  
 
 **The hunt never ends. The throne is yours.** 👑🔥
